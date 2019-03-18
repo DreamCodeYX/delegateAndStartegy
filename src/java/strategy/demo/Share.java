@@ -1,4 +1,4 @@
-package strategy.demo;
+package java.strategy.demo;
 
 public class Share {
     private String  showTitle;

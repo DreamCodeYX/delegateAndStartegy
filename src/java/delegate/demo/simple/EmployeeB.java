@@ -1,4 +1,4 @@
-package delegate.demo.simple;
+package java.delegate.demo.simple;
 
 public class EmployeeB implements  IEmployee{
     @Override

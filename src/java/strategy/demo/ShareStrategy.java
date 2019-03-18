@@ -1,4 +1,4 @@
-package strategy.demo;
+package java.strategy.demo;
 
 import java.util.HashMap;
 import java.util.Map;

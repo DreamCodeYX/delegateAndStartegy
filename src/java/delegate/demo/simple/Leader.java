@@ -1,4 +1,4 @@
-package delegate.demo.simple;
+package java.delegate.demo.simple;
 
 import java.util.HashMap;
 import java.util.Map;

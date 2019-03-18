@@ -1,4 +1,4 @@
-package delegate.demo.simple;
+package java.delegate.demo.simple;
 
 public class Test {
     public static void main(String[] args) {
